@@ -80,7 +80,7 @@ Procedure:
 
 ## Normalize Pre-Processing Technique:
 Procedure:
-1)	Start  Programs  Weka-3-4  Weka-3-4
+1)	Start - Programs - Weka-3-4 -Weka-3-4
 2)	Click on explorer.
 3)	Click on open file.
 4)	Select Weather.arff file and click on open.
